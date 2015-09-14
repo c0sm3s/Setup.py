@@ -1,5 +1,5 @@
 Setup.py
 ========
 
-code to convert. py a. exe
+code to convert .py to .exe
 Change only the name.py in both cases.
